@@ -1,6 +1,6 @@
-package project.tasks_management.services.client;
+package services.client;
 
-import project.tasks_management.entities.Client;
+import entities.Client;
 
 import java.sql.SQLException;
 import java.util.List;

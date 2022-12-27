@@ -1,9 +1,9 @@
-package project.tasks_management.services.commande;
+package services.commande;
 
-import project.tasks_management.dao.commande.commandeDAO;
-import project.tasks_management.entities.Commande;
-import project.tasks_management.entities.Produit;
-import project.tasks_management.services.produit.commandeService;
+import dao.commande.commandeDAO;
+import entities.Commande;
+import entities.Produit;
+import services.produit.commandeService;
 
 import java.sql.SQLException;
 import java.util.List;

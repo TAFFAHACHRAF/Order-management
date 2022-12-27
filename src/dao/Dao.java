@@ -1,4 +1,4 @@
-package project.tasks_management.dao;
+package dao;
 import java.sql.SQLException;
 import java.util.List;
 

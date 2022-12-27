@@ -1,8 +1,8 @@
-package project.tasks_management.services.produit;
+package services.produit;
 
-import project.tasks_management.entities.Client;
-import project.tasks_management.entities.Commande;
-import project.tasks_management.entities.Produit;
+import entities.Client;
+import entities.Commande;
+import entities.Produit;
 
 import java.sql.SQLException;
 import java.util.List;

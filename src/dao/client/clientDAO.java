@@ -1,7 +1,7 @@
-package project.tasks_management.dao.client;
+package dao.client;
 
-import project.tasks_management.dao.Dao;
-import project.tasks_management.entities.Client;
+import dao.Dao;
+import entities.Client;
 
 public interface clientDAO extends Dao<Client> {
 }

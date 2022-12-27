@@ -1,4 +1,4 @@
-package project.tasks_management.entities;
+package entities;
 
 public class Contient {
     private Long ID= Long.valueOf(0);

@@ -1,8 +1,8 @@
-package project.tasks_management.dao.client;
+package dao.client;
 
-import project.tasks_management.dao.SingletonConnexionDB;
-import project.tasks_management.entities.Client;
-import project.tasks_management.entities.Commande;
+import dao.SingletonConnexionDB;
+import entities.Client;
+import entities.Commande;
 
 import java.sql.*;
 import java.util.ArrayList;

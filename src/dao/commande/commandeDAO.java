@@ -1,8 +1,9 @@
-package project.tasks_management.dao.commande;
+package dao.commande;
 
-import project.tasks_management.dao.Dao;
-import project.tasks_management.entities.Commande;
-import project.tasks_management.entities.Produit;
+
+import dao.Dao;
+import entities.Commande;
+import entities.Produit;
 
 import java.util.List;
 

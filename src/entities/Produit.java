@@ -1,4 +1,4 @@
-package project.tasks_management.entities;
+package entities;
 
 import java.io.Serializable;
 
